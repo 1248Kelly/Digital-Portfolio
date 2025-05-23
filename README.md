@@ -3,7 +3,7 @@
 **Qualification**: Diploma in ICT - Application Development.
 **Institution**: Cape Peninsula University of Technology.
 **Year**: 3rd Year (2025).
-**Student Number**: 222578874.
+**Student Number**: 222578874. 
 ---
 ## Career Cunselling
 
@@ -72,8 +72,7 @@
 -I submitted my CV 
 -Learned the importance of following submission instructions closely and presenting documents in the expected format.
 
-![CV Submission Screenshot](RisanaCV.pdf)
-
+https://github.com/1248Kelly/Digital-Portfolio/blob/main/RisanaCV.pdf
 
 ## Reflection using STAR Technique
 
