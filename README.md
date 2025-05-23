@@ -1,85 +1,146 @@
-# Digital-Portfolio - Risana Kelly Ngoveni
+# Digital-Portfolio 
 
-**Qualification**: Diploma in ICT - Application Development.
-**Institution**: Cape Peninsula University of Technology.
-**Year**: 3rd Year (2025).
-**Student Number**: 222578874. 
----
+<p align="center"><i><b>Risana Kelly Ngoveni</b></i></p>
+<p align="center"> <i>Third-Year ICT: Application Development | Cape Peninsula University of Technology</i></p>
+<p align="center"> <b>Student Number:</b> 222578874</p>
+<p align="center"><i>Full Stack Developer/System Architect</i></p>
+<p align="center"><i>Dedicated to creating innovative, efficient, and user-friendly applications with real-world relevance</i></p>
+
+##  Introduction
+
+As a third-year ICT (Application Development) student at Cape Peninsula University of Technology, I have developed a strong foundation in software development principles, systems analysis, and application design. My academic journey has shaped me into a problem-solver who is passionate about creating functional, user-centered software that addresses real-world needs.
+
+This digital portfolio represents my growth as an aspiring software developer. It showcases key projects, practical experiences, and reflective insights that highlight my readiness to contribute meaningfully in professional environments. Whether through mobile apps, web solutions, or database-driven systems, my goal is to build impactful technologies that blend innovation with usability.
+
+
+
+
 ## Career Cunselling
 
 ### Evidence 
-- I completed the Career Development module and scored 100%.
-- Learned about self-awareness,setting career goals,developing essential skills such as communication and adapting to change.
+- A reflective summary report based on my participation in the Career Development module, focusing on aligning my strengths and skills with current industry demands.
+- Visual documentation showcasing activities and tasks completed during the career development workshop.
 
 ![Career Quiz Screenshot](CareerDevelopment.png)
 
-## Reflection using STAR Technique:
-**Situation**: I participated in a career counselling module during work readiness training.  
-**Task**: I was required to complete a quiz and identify potential career paths.  
-**Action**: I took the quiz, engaged with a counsellor, and researched different careers that matched my interests.  
-**Result**: I discovered I am well-suited to IT and analytical roles. I now feel more confident pursuing a career in software development.
+###  Reflection (STAR)
+
+**S**ituation: As I approached the final stages of my studies, I realized I needed clearer direction regarding my future career path in the tech industry.  
+
+**T**ask: My goal was to gain professional insight and practical guidance to align my personal strengths and interests with suitable career opportunities.  
+
+**A**ction: I actively engaged with the Career Development module, completed self-assessment exercises, participated in workshops, and consulted with the campus career office.  
+
+**R**esult: Through this process, I gained valuable clarity about the roles within tech that best align with my skills and passions—particularly in areas like software development and systems analysis—empowering me to make more informed career decisions moving forward.
+
 ---
 ## Skills and Interests
 
 
-### Evidence 
--I completed the Skills and Interests assessment and scored 100%.
--Learned to identify key strengths, align them with suitable roles, and understand what drives me in a career.
+### 📄 Evidence
+
+- **Core Technical Skills:**  
+  Java · JavaScript · MySQL · HTML/CSS · Python · Figma · Agile · Scrum  
+
+- **Electives (2023/2024):**  
+  ▫️ *Python Programming* — Focused on logic building, data structures, and automation  
+  ▫️ *Greenfoot* — Object-oriented programming using Java in a visual and interactive environment  
+
+- **Personal Interests:**  
+  Data science · Software development · UX/UI design · Gamified learning systems
+
 
 ![Skills and Interests Screenshot](Skills.png)
 
 
-## Reflection using STAR Technique:
-**Situation:** I completed a module focused on discovering my personal strengths and interests.
-**Task:** I had to reflect on my skills and match them to possible job opportunities.
-**Action:** I completed quizzes, reviewed my results, and explored careers that align with both my skills and interests.
-**Result:** I learned that I have strong problem-solving and logical thinking skills, which are ideal for careers in data analysis, software development, and cybersecurity.
----
+###  Reflection (STAR)
+
+**S**ituation: Throughout my academic journey, I was introduced to a wide range of technologies and development tools.  
+
+**T**ask: I needed to identify which skills and areas of tech aligned best with my interests and strengths.  
+
+**A**ction: I actively engaged in various tech projects and intentionally chose Data Analytics as an elective to broaden my technical perspective and explore data-driven decision-making.  
+
+**R**esult: I developed strong data interpretation and analytical thinking skills, and discovered a genuine passion for creating systems that deliver value through meaningful insights.
+
 ## Personality Assessment
 
-### Evidence 
--I completed the Personality Assessment and scored 100%.
--Learned how my personality traits affect my career preferences, communication, and teamwork.
+### Evidence
+
+- **Summary:**  
+  I completed a series of online self-assessments as part of the career development module. The results highlighted my dominant traits as:  
+  ▫️ **Analytical** – I enjoy solving complex problems through logical thinking.  
+  ▫️ **Curious** – I am eager to learn new technologies and explore innovative solutions.  
+  ▫️ **Empathetic** – I consider user needs and perspectives in design and development.  
+  ▫️ **Adaptive** – I adjust easily to new challenges and fast-paced environments.  
 
 ![Personality Assessment Screenshot](Personailt.png)
 
 
-## Reflection using STAR Technique:
-**Situation:** During the training, I took a personality test to understand how my traits influence my work style.
-**Task:** I needed to evaluate my personality type and its relevance to various career options.
-**Action:** I analyzed the results and explored roles where my traits would help me thrive.
-**Result:** I discovered I am detail-oriented and logical, which suits roles requiring critical thinking and structure, such as software development and system analysis.
+### Reflection (STAR)
+
+**S**ituation: I felt uncertain about how my personality traits aligned with roles in the tech industry.  
+
+**T**ask: My goal was to better understand my working style and uncover the soft skills that could support my growth in team-based environments.  
+
+**A**ction: I completed structured personality and career assessment tests, then critically reflected on the results to draw connections to real-world team and leadership dynamics.  
+
+**R**esult: I gained valuable insight into my strengths in leadership, communication, and collaboration—skills that are essential for thriving in software development and cross-functional tech teams.
+
 ---
 ## Create a CV
 
 ### Evidence 
--I created a professional CV as part of the training and scored 100%.
--Learned how to present my qualifications, skills, and experience effectively.
+ - A visual snapshot of my CV highlighting my qualifications, technical skills, and academic journey.  
+  It includes brief overviews of key projects such as:
+  ▫️ **Student Enrollment System** – A sustainability-focused application  
+
+▫️ **Java-based voting system** – Demonstrating object-oriented programming skills
 
 ![Create a CV Screenshot](CreateCV.png)
 
 
-## Reflection using STAR Technique:
+###  Reflection (STAR)
 
-**Situation:** I was required to create a CV during the career development phase.
-**Task:** I needed to format a professional CV aligned with industry standards.
-**Action:** I included relevant information such as personal details, education, skills, and a career objective tailored to IT roles.
-**Result:** I now have a structured, polished CV that I am confident using to apply for positions in the tech industry.
+**S**ituation: I needed a professional CV to apply for the Capitec Work Integrated Learning (WIL) program,DHL Learnship program and Graduate Program for Pick n Pay.  
+
+**T**ask: My objective was to create a clear, well-structured resume that effectively highlights my academic achievements, technical skills, and project experience.  
+
+**A**ction: I gathered details of relevant coursework, personal and group projects, and technical competencies, then formatted them into a clean, professional layout using concise and impactful language.  
+
+**R**esult: I produced a strong CV that aligns with my career goals and meets industry expectations—ready for submission to internship and entry-level opportunities like the Capitec WIL program.
+
 ---
 ## CV Submission
 
-## Evidence
--I submitted my CV 
--Learned the importance of following submission instructions closely and presenting documents in the expected format.
+###  Evidence
+
+- Submitted a customized CV and tailored cover letters to the following opportunities:  
+  ▫️ **Capitec Bank** – Work Integrated Learning (WIL) program  
+  ▫️ **DHL** – Learnership Program  
+  ▫️ **Pick n Pay** – Graduate Development Program  
 
 https://github.com/1248Kelly/Digital-Portfolio/blob/main/RisanaCV.pdf
 
-## Reflection using STAR Technique
+###  Reflection (STAR)
 
-**Situation:** I submitted my CV as part of the portfolio requirement.
-**Task:** I had to ensure my CV was submitted correctly and on time.
-**Action:** I prepared the CV and uploaded it, but may have missed a formatting or file-naming requirement.
-**Result:** Although I submitted the CV, I didn’t receive full marks, which taught me the importance of double-checking submission details and instructions.
+**S**ituation: I wanted to apply for multiple work-integrated learning and graduate programs to gain valuable industry experience.  
+
+**T**ask: My task was to write compelling, tailored cover letters and submit professional applications to Capitec’s WIL program, DHL’s Learnership, and Pick n Pay’s Graduate Program.  
+
+**A**ction: I researched each company’s mission, values, and program details thoroughly. I then customized my cover letters to align my skills and career goals with what each organization values most.  
+
+**R**esult: I submitted polished, personalized applications to all three programs, increasing my chances of securing meaningful work experience in the ICT field.
+
+###  [Car Rental Company Mobile App UX – View Prototype on Figma](figma.com/design/5Q3K3kKEkmwQzvDfvqU0z9/Car-Rental-Website-UI-Designs?node-id=28-2&t=BF7fR11Tv4ZGpwTo-0)
+- UX/UI prototype designed to streamline the car rental experience by offering easy vehicle browsing, booking, and customer support through a mobile app.
+- Developed using Design Thinking methodology, applying Gestalt principles and UX/UI best practices to ensure intuitive navigation and user satisfaction.
+
+##  Contact Me
+
+-  Email: kellyngoveni23@gmail.com  
+- 📱 Phone: 061 452 1060
+
 
 
 
