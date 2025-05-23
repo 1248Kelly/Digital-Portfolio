@@ -11,7 +11,7 @@
 - I completed the Career Development module and scored 100%.
 - Learned about self-awareness,setting career goals,developing essential skills such as communication and adapting to change.
 
-![Career Quiz Screenshot](./images/career-quiz.png)  <!-- Screenshot goes here -->
+![Career Quiz Screenshot](./images/Career-Development.png)
 
 ## Reflection using STAR Technique:
 **Situation**: I participated in a career counselling module during work readiness training.  
