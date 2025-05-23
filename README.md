@@ -11,7 +11,7 @@
 - I completed the Career Development module and scored 100%.
 - Learned about self-awareness,setting career goals,developing essential skills such as communication and adapting to change.
 
-![Career Quiz Screenshot](./images/Career-Development.png)
+![Career Quiz Screenshot](CareerDevelopment.png)
 
 ## Reflection using STAR Technique:
 **Situation**: I participated in a career counselling module during work readiness training.  
@@ -26,6 +26,9 @@
 -I completed the Skills and Interests assessment and scored 100%.
 -Learned to identify key strengths, align them with suitable roles, and understand what drives me in a career.
 
+![Skills and Interests Screenshot](Skills.png)
+
+
 ## Reflection using STAR Technique:
 **Situation:** I completed a module focused on discovering my personal strengths and interests.
 **Task:** I had to reflect on my skills and match them to possible job opportunities.
@@ -37,6 +40,9 @@
 ### Evidence 
 -I completed the Personality Assessment and scored 100%.
 -Learned how my personality traits affect my career preferences, communication, and teamwork.
+
+![Personality Assessment Screenshot](Personailt.png)
+
 
 ## Reflection using STAR Technique:
 **Situation:** During the training, I took a personality test to understand how my traits influence my work style.
@@ -50,6 +56,9 @@
 -I created a professional CV as part of the training and scored 100%.
 -Learned how to present my qualifications, skills, and experience effectively.
 
+![Create a CV Screenshot](CreateCV.png)
+
+
 ## Reflection using STAR Technique:
 
 **Situation:** I was required to create a CV during the career development phase.
@@ -62,6 +71,9 @@
 ## Evidence
 -I submitted my CV 
 -Learned the importance of following submission instructions closely and presenting documents in the expected format.
+
+![CV Submission Screenshot](RisanaCV.pdf)
+
 
 ## Reflection using STAR Technique
 
