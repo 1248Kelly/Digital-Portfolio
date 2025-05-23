@@ -15,7 +15,7 @@ This digital portfolio represents my growth as an aspiring software developer. I
 
 
 
-## Career Cunselling
+## Career Counselling
 
 ### Evidence 
 - A reflective summary report based on my participation in the Career Development module, focusing on aligning my strengths and skills with current industry demands.
@@ -140,7 +140,7 @@ https://www.figma.com/files/team/1491486525627834618/recents-and-sharing?fuid=12
 ##  Contact Me
 
 -  Email: kellyngoveni23@gmail.com  
-- 📱 Phone: 061 452 1060
+-  Phone: 061 452 1060
 
 
 
