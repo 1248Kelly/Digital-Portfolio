@@ -132,7 +132,8 @@ https://github.com/1248Kelly/Digital-Portfolio/blob/main/RisanaCV.pdf
 
 **R**esult: I submitted polished, personalized applications to all three programs, increasing my chances of securing meaningful work experience in the ICT field.
 
-###  [Car Rental Company Mobile App UX – View Prototype on Figma](figma.com/design/5Q3K3kKEkmwQzvDfvqU0z9/Car-Rental-Website-UI-Designs?node-id=28-2&t=BF7fR11Tv4ZGpwTo-0)
+###  [Car Rental Company Mobile App UX – View Prototype on Figma]
+https://www.figma.com/files/team/1491486525627834618/recents-and-sharing?fuid=1220534951971721751
 - UX/UI prototype designed to streamline the car rental experience by offering easy vehicle browsing, booking, and customer support through a mobile app.
 - Developed using Design Thinking methodology, applying Gestalt principles and UX/UI best practices to ensure intuitive navigation and user satisfaction.
 
