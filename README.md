@@ -93,7 +93,7 @@ This digital portfolio represents my growth as an aspiring software developer. I
 ### Evidence 
  - A visual snapshot of how to create a CV highlighting qualifications, technical skills, and academic journey.
    
-  overviews of key projects that i have worked on:
+  Overviews of key projects that i have worked on:
   ▫️ **Student Enrollment System** – A sustainability-focused application  
 
 ▫️ **Java-based voting system** – Demonstrating object-oriented programming skills
