@@ -171,15 +171,15 @@ Participating in code reviews, testing, and debugging to ensure a smooth user ex
 
 Key Features:
 
-Student and Company Registration
+-Student and Company Registration
 
-WIL Opportunity Posting and Application Management
+-WIL Opportunity Posting and Application Management
 
-Automated Email Notifications
+-Automated Email Notifications
 
-Progress Tracking and Reporting
+-Progress Tracking and Reporting
 
-##Outcome & Learnings:##
+## Outcome & Learnings:
 This project enhanced my understanding of full-stack development and teamwork in a collaborative environment. I learned how to design and implement backend services, manage relational databases, and ensure secure, efficient data handling. It also improved my ability to work under real project constraints and apply agile methodologies.
 
 ![Admin Dashboard](https://github.com/user-attachments/assets/f44ef39f-6248-4f20-9e27-ec0e0234fa7a)
@@ -205,63 +205,212 @@ I developed the backend logic using Java and Spring Boot, created database table
 **R**esult:
 The notification feature worked successfully, improving communication between students and companies and enhancing the overall usability of the system. Through this process, I gained hands-on experience in backend integration, debugging, and teamwork within a full-stack project environment.
 
-Step 1: Collect
+### Step 1: Collect
 
 I have collected the following artefacts as evidence of my learning and development throughout my ICT studies:
 
-1. Career Counseling
+**1. Career Counseling**
 
-Reflective summary report from the Career Development module
+-Reflective summary report from the Career Development module
 
-Career Quiz results
+-Career Quiz results
 
-Workshop participation documentation
+-Workshop participation documentation
 
-Screenshot of Career Quiz and workshop activities
+Career Quiz and workshop activities
 <img width="1281" height="598" alt="image" src="https://github.com/user-attachments/assets/a3a278c4-08ce-4e0b-957f-27c55e85745f" />
 
 
-2. Skills and Interests
+## 2. Skills and Interests
 
 Core Technical Skills: Java, JavaScript, MySQL, HTML/CSS, Python, Figma, Agile, Scrum
 
-Elective Courses:
+**Elective Courses:**
 
-Python Programming – Focused on logic building, data structures, and automation
+**Python Programming** – Focused on logic building, data structures, and automation
 
-Greenfoot – Object-oriented programming in a visual, interactive environment
+**Greenfoot** – Object-oriented programming in a visual, interactive environment
 
-Screenshot of skills and electives
+Skills and electives
 <img width="1278" height="597" alt="image" src="https://github.com/user-attachments/assets/25870175-433a-4692-a6eb-006f68ea3bc4" />
 
-3. Personality Assessment
+## 3. Personality Assessment
 
 Results from online personality assessment tests
 
-Screenshot of personality assessment results
+ **Personality assessment results**
+![Personality Assessment Screenshot](Personailt.png)
 
-4. CV Submission
 
-Customized CV and tailored cover letters for:
+## 4. CV Submission
 
-Capitec WIL program
+-Customized CV and tailored cover letters for:
 
-DHL Learnership program
+-Capitec WIL program
 
-Pick n Pay Graduate Program
+-DHL Learnership program
 
-PDF link to CV: Risana CV PDF
+-Pick n Pay Graduate Program
 
-Screenshot of CV and cover letters
+link to CV: https://github.com/1248Kelly/Digital-Portfolio/blob/main/RisanaCV.pdf
 
-5. Projects
 
-FID-WIL Management System: Admin Dashboard, Home Page, Notification Module screenshots
+**CV and cover letters**
+<img width="410" height="570" alt="Screenshot 2025-10-18 214123" src="https://github.com/user-attachments/assets/0180fb08-b4ca-42d3-8811-4fa670cf12d9" />
+<img width="405" height="567" alt="Screenshot 2025-10-18 214156" src="https://github.com/user-attachments/assets/93c7a00a-02de-4f93-91b9-3ae2a26c680e" />
+<img width="401" height="565" alt="Screenshot 2025-10-18 214615" src="https://github.com/user-attachments/assets/80b13a2b-9c1c-4cd5-92e8-71c48cc33bb8" />
 
-Car Rental Mobile App: Figma UX/UI prototype screenshot / link
 
-Grocery Mobile App: Backend notification page and UI screenshots
+## 5. Projects
 
+**FID-WIL Management System: Admin Dashboard, Home Page, Notification Module**
+![Admin Dashboard](https://github.com/user-attachments/assets/24784f94-9f28-4c97-8e7f-fbf01c3dfc34)
+
+
+**Car Rental Mobile App: Figma UX/UI prototype**
+![Car Rental](https://github.com/user-attachments/assets/60eded4a-7fb6-49b7-aad0-22de9fc874be)
+
+
+
+**Grocery Mobile App: Backend notification page and UI**
+
+<img width="1365" height="722" alt="Screenshot 2025-10-18 215512" src="https://github.com/user-attachments/assets/9406d9a0-fe95-458f-b9f8-d826a7db1ffa" />
+
+
+### Step 2: Select
+
+I have carefully selected the following artefacts because they best demonstrate my learning, skill development, and professional growth:
+
+**1. Career Counseling**
+
+Why selected: This artefact shows my proactive approach to understanding my career path, aligning my personal strengths with industry requirements, and gaining clarity about roles in software development and systems analysis. It demonstrates my ability to plan and reflect on professional development.
+
+**2. Skills and Interests**
+
+Why selected: This artefact highlights the technical skills and elective courses I have completed, which are directly relevant to my ICT career goals. It also shows my personal interests in data science, UX/UI design, and gamified learning systems, demonstrating self-directed learning and skill diversification.
+
+**3. Personality Assessment**
+
+Why selected: This artefact demonstrates self-awareness and the identification of soft skills such as analytical thinking, empathy, adaptability, and curiosity. These traits are essential for teamwork, problem-solving, and professional development in ICT environments.
+
+**4. CV Submission**
+
+Why selected: The CV and tailored cover letters serve as evidence of my ability to professionally present my qualifications, technical skills, and project experience. They also demonstrate readiness to apply for industry programs and real-world work-integrated learning opportunities.
+
+**5. FID-WIL Management System**
+
+Why selected: This project demonstrates full-stack development skills, including frontend and backend integration, database design, and implementation of a Notification Module. It provides evidence of teamwork, problem-solving, and the ability to deliver a functional system in a real-world context.
+
+**6. Car Rental Mobile App** 
+
+Why selected: This artefact demonstrates UX/UI design skills, user-centered mobile application development, and the ability to create intuitive, interactive prototypes. It shows my capacity to apply design thinking principles in practice.
+
+**7. Grocery Mobile App**
+
+Why selected: This project provides evidence of mobile application development skills, backend integration, and the implementation of functional notification features. It demonstrates my ability to apply programming knowledge to real-world applications.
+
+### Step 3: Analyse
+## 1. Career Counseling
+
+**Analysis:**
+This artefact highlights my ability to reflect on my strengths, interests, and career goals. By engaging in workshops, self-assessments, and consultations with the career office, I gained clarity on suitable ICT roles. It demonstrates my proactive attitude toward professional growth and decision-making skills, which are essential for career readiness.
+
+## 2. Skills and Interests
+
+**Analysis:**
+This artefact demonstrates my technical proficiency in programming languages, frameworks, and tools. It also reflects my curiosity and commitment to expanding my knowledge through elective courses like Python Programming and Greenfoot. It shows that I am self-directed and adaptable, capable of applying these skills to real-world projects.
+
+## 3. Personality Assessment
+
+**Analysis:**
+This artefact provides insight into my soft skills, including analytical thinking, adaptability, empathy, and curiosity. It shows that I am self-aware and capable of working effectively in teams. These traits contribute to problem-solving, collaboration, and leadership—critical skills for professional ICT environments.
+
+## 4. Create a CV
+
+**Analysis:**
+Creating a professional CV shows my ability to present qualifications, technical skills, and projects effectively. It reflects my understanding of professional communication, attention to detail, and ability to align my achievements with industry expectations, preparing me for internships and graduate opportunities.
+
+## 5. CV Submission
+
+**Analysis:**
+Submitting tailored CVs and cover letters demonstrates my initiative and real-world application of career readiness skills. It highlights my ability to research companies, customize applications, and communicate my competencies in a professional manner, showing preparedness for work-integrated learning programs.
+
+## 6. FID-WIL Management System
+
+**Analysis:**
+This project illustrates my full-stack development capabilities, including frontend and backend integration, database design, and implementing functional modules like notifications. It shows my problem-solving skills, ability to work collaboratively, and application of technical knowledge to deliver real-world solutions.
+
+## 7. Car Rental Mobile App
+
+**Analysis:**
+This artefact demonstrates my UX/UI design skills and ability to develop interactive prototypes. It highlights my focus on user-centered design, applying design thinking principles, and creating practical, user-friendly mobile solutions, which is critical for modern software development.
+
+## 8. Grocery Mobile App
+
+**Analysis:**
+This project showcases my mobile application development and backend integration skills. It reflects my ability to implement functional features like notifications and connect them to user interfaces, demonstrating real-world programming proficiency and problem-solving skills.
+
+### Step 4: Connect
+
+The artefacts I have collected and selected are interconnected and demonstrate my overall growth as a third-year ICT (Application Development) student. They collectively showcase my technical skills, personal development, and readiness for professional ICT environments.
+
+## Connections Between Artefacts
+
+**Career Counseling + Personality Assessment**
+These artefacts provided insights into my strengths, personality traits, and career interests. Reflections from these activities guided my project choices and skill development, ensuring I focused on areas that align with my analytical, adaptive, and user-centered approach to software development.
+
+**Skills and Interests + Projects**
+The technical skills and elective courses I completed were applied directly in projects such as the FID-WIL Management System, Car Rental Mobile App, and Grocery Mobile App. These projects show a progression from learning programming fundamentals to applying them in real-world systems, integrating frontend and backend development, UX/UI design, and mobile application development. They also demonstrate problem-solving, project management, and teamwork, highlighting my ability to implement functional, efficient, and user-friendly solutions.
+
+**CV Submission**
+The CV and tailored cover letters connect all my artefacts by presenting my skills, project experience, and professional growth in a concise, professional format. They demonstrate my ability to communicate my readiness for work-integrated learning programs and graduate opportunities in ICT.
+
+Overall Learning Connection
+
+Career activities → self-awareness and career direction
+
+Skills and projects → technical competency and practical application
+
+CV and applications → professional presentation and readiness
+
+Through these interconnected artefacts, I can clearly illustrate my progression from a student learning fundamental concepts to an aspiring professional ready to contribute meaningfully in ICT environments. Each artefact reinforces my technical knowledge, personal growth, and professional preparedness, providing a holistic picture of my journey as an ICT student.
+
+ ### Step 5: Present / Conclusion
+**Summary of Learning**
+
+Throughout my journey as a third-year ICT (Application Development) student at Cape Peninsula University of Technology, I have grown from understanding core programming concepts to applying them in real-world projects. My portfolio demonstrates the integration of technical skills, personal development, and professional readiness:
+
+**Technical Growth:** Full-stack development using Java, Spring Boot, MySQL, HTML/CSS, JavaScript, and mobile application development in Android Studio.
+
+**Project Experience:** Building functional systems like the FID-WIL Management System, Car Rental Mobile App, and Grocery Mobile App enhanced my problem-solving, database integration, and UX/UI design skills.
+
+**Personal Development:** Career counseling and personality assessments improved my self-awareness, teamwork, and communication abilities, allowing me to align my skills with industry expectations.
+
+## Professional Readiness
+
+This portfolio demonstrates that I am prepared to contribute meaningfully in professional ICT environments:
+
+CV & Applications: Customized CV and tailored cover letters submitted to Capitec WIL program, DHL Learnership program, and Pick n Pay Graduate Program.
+
+Project Implementation: Experience in developing, testing, and deploying applications that solve real-world problems.
+
+Soft Skills: Analytical thinking, adaptability, empathy, and collaboration—critical traits for success in professional teams.
+
+## Future Goals
+
+I am committed to continuous growth as a software developer and systems architect. My future aspirations include:
+
+Expanding expertise in advanced mobile application development and cloud computing.
+
+Contributing to data-driven systems that improve decision-making processes.
+
+Developing user-centered applications that provide meaningful solutions in real-world contexts.
+
+Pursuing further opportunities in work-integrated learning and professional internships to refine my technical and professional skills.
+
+## Call to Action / Contact
+
+I welcome opportunities to connect with professionals, mentors, and organizations in the ICT field.
 
 
 ##  Contact Me
